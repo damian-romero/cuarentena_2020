@@ -53,16 +53,19 @@ pip install pygame
 # Créditos
 - Yo soy el diseñador del juego, pero me inspiré en varios tutoriales de RealPython.com, en especial en el artículo de Jon Fincher ["PyGame: A Primer on Game Programming in Python"](https://realpython.com/pygame-a-primer/). Thanks to Dan Bader all the folks at Real Python for being a constant source of inspiration and knowledge!
 
-https://realpython.com/pygame-a-primer/
-
 - Todo el arte por Alba González
-  https://www.patreon.com/albaglezart/
-  ¡Síguela en Instagram! 
-  ![@albaglezart](IMG_1483.JPG "AlbaGlezArt")
+
+<a href="https://www.patreon.com/albaglezart/" target="_top">Download Page</a>
+
+¡Síguela en Instagram! 
+
+![@albaglezart](recursos/IMG_1483.JPG "AlbaGlezArt")
 
 - Música por Rodd Neyra
-  ¡Síguelo en Instagram! 
-  [@rodd.neyra]
+
+¡Síguelo en Instagram! 
+
+[@rodd.neyra]
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Los diseños gráficos: chavito.png, covid.png y los efectos de sonido y música: abajo.ogg, arriba.ogg, rola.mp3, tos.ogg, están bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>.
 
