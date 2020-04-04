@@ -12,6 +12,7 @@ Para usar los archivos en este repositorio:
 - arriba.ogg  # (© Rodd Neyra)
 - abajo.ogg  # (© Rodd Neyra)
 - tos.ogg  # (© Rodd Neyra)
+- rola.mp3 # (© Rodd Neyra)
 
 2. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
 
