@@ -61,7 +61,7 @@ pip install pygame
 
 ### Arte gráfico
 
-> #### Todo el arte gráfico es gracias a Alba González
+> **Todo el arte gráfico es gracias a Alba González**
 
 > Visita su página de Patreon: https://www.patreon.com/albaglezart/
 
@@ -71,7 +71,7 @@ pip install pygame
 
 ### Música y efectos de sonido
 
-> #### Toda la música y los efectos de sonido son gracias a Rodd Neyra
+> **Toda la música y los efectos de sonido son gracias a Rodd Neyra**
 
 > ¡Síguelo en Instagram! 
 
@@ -99,4 +99,4 @@ pip install pygame
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
 
-### La licencia de este demo del juego es la licencia restringida no comerciaL en la cual solamente se otorgan derechos de uso (no de distribución) con fines educativos. Consulta el archivo LICENCIA-LICENCE.md para obtener más información.
+### La licencia de este demo del juego es la licencia restringida no comerciaL en la cual solamente se otorgan derechos de uso (no de distribución) con fines educativos. Consulta el archivo [LICENCIA-LICENCE.md](https://github.com/damian-romero/cuarentena_2020/blob/master/LICENCIA-LICENCE.md) para obtener más información.
