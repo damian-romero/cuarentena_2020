@@ -6,13 +6,13 @@ Para usar los archivos en este repositorio:
 
 1. Baja a tu computadora en un folder al que puedas acceder fácilmente los archivols: 
 
-- cuarentena.py  # Código para el videojuego (© Damián Romero)
-- covid.png  # Diseño (© Alba Gonzáles)
-- chavito.png  # (© Alba Gonzáles)
-- arriba.ogg  # (© Rodd Neyra)
-- abajo.ogg  # (© Rodd Neyra)
-- tos.ogg  # (© Rodd Neyra)
-- rola.mp3 # (© Rodd Neyra)
+  - cuarentena.py  # Código para el videojuego (© Damián Romero)
+  - covid.png  # Diseño (© Alba Gonzáles)
+  - chavito.png  # (© Alba Gonzáles)
+  - arriba.ogg  # (© Rodd Neyra)
+  - abajo.ogg  # (© Rodd Neyra)
+  - tos.ogg  # (© Rodd Neyra)
+  - rola.mp3 # (© Rodd Neyra)
 
 2. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
 
