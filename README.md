@@ -94,10 +94,8 @@ pip install pygame
 -  NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
 - SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
 
-## No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.
+### No hay restricciones adicionales en cuanto al uso del arte gráfico o de los efectos de sonido y la música — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia. Para leer la licencia completa, sigue este vínculo: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
 
-## Para leer la licencia completa, sigue este vínculo:
+# El software (código) y los documentos relacionados están protegidos por una licencia no comercial.
 
-https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
-
-### La licencia de este demo del juego es la licencia restringida no comerciaL en la cual solamente se otorgan derechos de uso (no de distribución) con fines educativos. Consulta el archivo [LICENCIA-LICENCE.md](https://github.com/damian-romero/cuarentena_2020/blob/master/LICENCIA-LICENCE.md) para obtener más información.
+## La licencia de este demo del juego es la licencia restringida no comerciaL en la cual solamente se otorgan derechos de uso (no de distribución) con fines educativos. Consulta el archivo [LICENCIA-LICENCE.md](https://github.com/damian-romero/cuarentena_2020/blob/master/LICENCIA-LICENCE.md) para obtener más información.
