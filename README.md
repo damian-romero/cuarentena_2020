@@ -4,9 +4,7 @@
 
 Para usar los archivos en este repositorio:
 
-1. Dise;os, efectos de sonido y música:
-
--Baja a tu computadora en un folder al que puedas acceder fácilmente los archivols: 
+#### 1. Diseños, efectos de sonido y música: Baja a tu computadora en un folder al que puedas acceder fácilmente los archivols: 
   - cuarentena.py  # Código para el videojuego (© Damián Romero)
   - covid.png  # Diseño (© Alba Gonzáles)
   - chavito.png  # (© Alba Gonzáles)
@@ -14,8 +12,10 @@ Para usar los archivos en este repositorio:
   - abajo.ogg  # (© Rodd Neyra)
   - tos.ogg  # (© Rodd Neyra)
   - rola.mp3 # (© Rodd Neyra)
+  - **\*Nota: Si quieres usar imágenes diferentes, puedes consultar la página de internet: https://opengameart.org/ en donde tienen imágines gratis para videojuegos. Probablemente necesites cambiar el tamaño de las imágenes y el fondo para que se vean bien en el juego. También hay música gratuita en: http://ccmixter.org/files/ pero debes usar formatos .ogg o .wav para efectos de sonido y .mp3 para la música.
+**
 
-2. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
+#### 2. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
 
 - WINDOWS: Abre el ```command prompt``` y navega hasta el folder en donde bajaste los archivos. Puedes encontrar el ```command prompt``` en el menú de búsqueda de Windows (dale click a la tecla de Windows y en el buscador escribe ```command prompt```. [Haz click aquí si no sabes qué el command prompt](https://es.wikipedia.org/wiki/S%C3%ADmbolo_del_sistema)
 
@@ -23,7 +23,7 @@ Para usar los archivos en este repositorio:
 
 - \*Todos los archivos deben de estar en la misma carpeta y debes de navegar a esta carpeta antes de poder correr el videojuego. 
 
-3. Instala Python 3.7 o una versión más reciente en tu computadora. Este paso también depende de tu sistema operativo. Puedes verificar si tienes Python 3.7+ si escribes en tu consola ```python -V``` y te dice algo como esto:
+#### 3. Instala Python 3.7 o una versión más reciente en tu computadora. Este paso también depende de tu sistema operativo. Puedes verificar si tienes Python 3.7+ si escribes en tu consola ```python -V``` y te dice algo como esto:
 
 ```
 ╰─○ python -V
@@ -35,7 +35,7 @@ Si no tienes python, tendrás que instalarlo. La manera más fácil de hacerlo e
 https://www.aprendemachinelearning.com/instalar-ambiente-de-desarrollo-python-anaconda-para-aprendizaje-automatico/
 
 
-4. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
+#### 4. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
 ```
 ╰─○ python -V
 pip install pygame
@@ -43,33 +43,39 @@ pip install pygame
 
 Una vez que la instalación sea exitosa, ya puedes correr el juego así:
 
-5. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
+#### 5. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
 ```
 ╰─○ python cuarentena.py
 pip install pygame
 ```
 
-6. ¡Si quieres aprender a programar super poderes o a cambiar la dificultad del juego, mira mi video # 3!
+#### 6. ¡Si quieres aprender a programar super poderes o a cambiar la dificultad del juego, mira mi video # 3!
 
 
 # Créditos
-- Yo soy el diseñador del juego, pero me inspiré en varios tutoriales de RealPython.com, en especial en el artículo de Jon Fincher ["PyGame: A Primer on Game Programming in Python"](https://realpython.com/pygame-a-primer/). Thanks to Dan Bader all the folks at Real Python for being a constant source of inspiration and knowledge!
 
-- Todo el arte por Alba González
+### Diseño del juego.
+> Damián Romero. Yo soy el diseñador del juego, pero me inspiré en varios tutoriales de RealPython.com, en especial en el artículo de Jon Fincher ["PyGame: A Primer on Game Programming in Python"](https://realpython.com/pygame-a-primer/). Si quieren aprender a programar en Python o a mejorar sus habilidades, no puedo recomendarles un mejor recurso que /realpython.com. Desafortunadamente, sus tutoriales están todos en inglés y espero que pronto añadan otros idiomas.
 
-<a href="https://www.patreon.com/albaglezart/" target="_top">Download Page</a>
+> Special thanks to Dan Bader and all the folks at Real Python for being a constant source of inspiration and knowledge!
 
-¡Síguela en Instagram! 
+### Arte gráfico
+
+> Todo el arte gráfico es gracias a Alba González
+
+> Visita su página de Patreon: https://www.patreon.com/albaglezart/
+
+> ¡O síguela en Instagram!
 
 ![@albaglezart](recursos/IMG_1483.JPG "AlbaGlezArt")
 
-- Música por Rodd Neyra
+### Música y efectos de sonido por Rodd Neyra
 
-¡Síguelo en Instagram! 
+> ¡Síguelo en Instagram! 
 
-[@rodd.neyra]
+> [@rodd.neyra]
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Los diseños gráficos: chavito.png, covid.png y los efectos de sonido y música: abajo.ogg, arriba.ogg, rola.mp3, tos.ogg, están bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>.
+**<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Los diseños gráficos: chavito.png, covid.png y los efectos de sonido y música: abajo.ogg, arriba.ogg, rola.mp3, tos.ogg, están bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>.**
 
 
 ## Solamente pueden ser utilizados bajo las siguientes condiciones:
