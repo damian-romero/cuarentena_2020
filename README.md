@@ -61,7 +61,7 @@ pip install pygame
 
 ### Arte gráfico
 
-> Todo el arte gráfico es gracias a Alba González
+> #### Todo el arte gráfico es gracias a Alba González
 
 > Visita su página de Patreon: https://www.patreon.com/albaglezart/
 
@@ -71,7 +71,7 @@ pip install pygame
 
 ### Música y efectos de sonido
 
-> Toda la música y los efectos de sonido son gracias a Rodd Neyra
+> #### Toda la música y los efectos de sonido son gracias a Rodd Neyra
 
 > ¡Síguelo en Instagram! 
 
