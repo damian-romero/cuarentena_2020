@@ -68,7 +68,7 @@ pip install pygame
 
 > ¡O síguela en Instagram!
 
-![@albaglezart](recursos/IMG_1483.JPG "AlbaGlezArt")
+![@albaglezart](recursos/ALG.JPG "AlbaGlezArt")
 
 ### Música y efectos de sonido
 
@@ -76,7 +76,7 @@ pip install pygame
 
 > ¡Síguelo en Instagram! 
 
-> @rodd.neyra
+![@rodd.neyra](recursos/ROD.JPG "Rodd D Neira")
 
 # Anuncio Importamte
 
