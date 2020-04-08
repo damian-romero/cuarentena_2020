@@ -1,5 +1,5 @@
 # Código, diseños y música de live coding para el videojuego "Cuarentena 2020"
-## [Convocatoria para creadores y artistas Contingencia COVID-19](https://github.com/damian-romero/cuarentena_2020/blob/master/recursos/convocatoria_contigo_en_la_distancia_guia_herramientas.pdf)
+## [Convocatoria para creadores y artistas Contingencia COVID-19](https://github.com/damian-romero/cuarentena_2020/blob/master/recursos/bases_Contigo_2020_5283.pdf)
 ### Secretaría de Cultura, MÉXICO
 ### © 2020, Damian Romero (damianr.code@gmail.com)
 
@@ -13,8 +13,7 @@ Para usar los archivos en este repositorio:
   - abajo.ogg  # (© Rodd Neyra)
   - tos.ogg  # (© Rodd Neyra)
   - rola.mp3 # (© Rodd Neyra)
-  - **\*Nota: Si quieres usar imágenes diferentes, puedes consultar la página de internet: https://opengameart.org/ en donde tienen imágines gratis para videojuegos. Probablemente necesites cambiar el tamaño de las imágenes y el fondo para que se vean bien en el juego. También hay música gratuita en: http://ccmixter.org/files/ pero debes usar formatos .ogg o .wav para efectos de sonido y .mp3 para la música.
-**
+  - **\*Nota: Si quieres usar imágenes diferentes, puedes consultar la página de internet: https://opengameart.org/ en donde tienen imágines gratis para videojuegos. Probablemente necesites cambiar el tamaño de las imágenes y el fondo para que se vean bien en el juego. También hay música gratuita en: http://ccmixter.org/files/ pero debes usar formatos .ogg o .wav para efectos de sonido y .mp3 para la música.**
 
 #### 2. Instala Python 3.7 o una versión más reciente en tu computadora. Este paso también depende de tu sistema operativo. Puedes verificar si tienes Python 3.7+ si escribes en tu consola ```python -V``` y te dice algo como esto:
 
