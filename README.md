@@ -1,7 +1,7 @@
 # Código, diseños y música de live coding para el videojuego "Cuarentena 2020"
 ## [Convocatoria para creadores y artistas Contingencia COVID-19](https://github.com/damian-romero/cuarentena_2020/blob/master/recursos/convocatoria_contigo_en_la_distancia_guia_herramientas.pdf)
 ### Secretaría de Cultura, MÉXICO
-### © 2020, Damian Romero
+### © 2020, Damian Romero (damianr.code@gmail.com)
 
 Para usar los archivos en este repositorio:
 
