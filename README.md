@@ -16,15 +16,7 @@ Para usar los archivos en este repositorio:
   - **\*Nota: Si quieres usar imágenes diferentes, puedes consultar la página de internet: https://opengameart.org/ en donde tienen imágines gratis para videojuegos. Probablemente necesites cambiar el tamaño de las imágenes y el fondo para que se vean bien en el juego. También hay música gratuita en: http://ccmixter.org/files/ pero debes usar formatos .ogg o .wav para efectos de sonido y .mp3 para la música.
 **
 
-#### 2. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
-
-- WINDOWS: Abre el ```command prompt``` y navega hasta el folder en donde bajaste los archivos. Puedes encontrar el ```command prompt``` en el menú de búsqueda de Windows (dale click a la tecla de Windows y en el buscador escribe ```command prompt```. [Haz click aquí si no sabes qué el command prompt](https://es.wikipedia.org/wiki/S%C3%ADmbolo_del_sistema)
-
-- MacOS o LINUX: Abre la consola buscando ```Terminal```. Puedes encontrar ```Terminal``` en el buscador. [Haz click aquí si no sabes qué Terminal](https://en.wikipedia.org/wiki/Linux_console)
-
-- \*Todos los archivos deben de estar en la misma carpeta y debes de navegar a esta carpeta antes de poder correr el videojuego. 
-
-#### 3. Instala Python 3.7 o una versión más reciente en tu computadora. Este paso también depende de tu sistema operativo. Puedes verificar si tienes Python 3.7+ si escribes en tu consola ```python -V``` y te dice algo como esto:
+#### 2. Instala Python 3.7 o una versión más reciente en tu computadora. Este paso también depende de tu sistema operativo. Puedes verificar si tienes Python 3.7+ si escribes en tu consola ```python -V``` y te dice algo como esto:
 
 ```
 ╰─○ python -V
@@ -36,7 +28,7 @@ Si no tienes python, tendrás que instalarlo. La manera más fácil de hacerlo e
 https://www.aprendemachinelearning.com/instalar-ambiente-de-desarrollo-python-anaconda-para-aprendizaje-automatico/
 
 
-#### 4. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
+#### 3. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
 ```
 ╰─○ python -V
 pip install pygame
@@ -44,13 +36,34 @@ pip install pygame
 
 Una vez que la instalación sea exitosa, ya puedes correr el juego así:
 
-#### 5. Una vez que sepas que tienes python 3.7+, instala el módulo ```pygame``` así:
+#### 4. Ahora, dependiendo de tu sistema operativo debes de ir a tu consola, que es un programa en donde puedes correr los programas:
+
+- WINDOWS: Abre el ```command prompt``` y navega hasta el folder en donde bajaste los archivos. Puedes encontrar el ```command prompt``` en el menú de búsqueda de Windows (dale click a la tecla de Windows y en el buscador escribe ```command prompt```. [Haz click aquí si no sabes qué el command prompt](https://es.wikipedia.org/wiki/S%C3%ADmbolo_del_sistema)
+
+- MacOS o LINUX: Abre la consola buscando ```Terminal```. Puedes encontrar ```Terminal``` en el buscador. [Haz click aquí si no sabes qué Terminal](https://en.wikipedia.org/wiki/Linux_console)
+
+
+#### 5. Para correr el videojuego:
+
+Debes usar la consola para navegar a la carpeta de tu videojuego.
+
+- WINDOWS: Puedes aprender a navegar tus directorios en la terminal de Windows [siguiendo este tutorial](https://riptutorial.com/es/cmd/example/8646/navegando-en-cmd)
+
+- MacOS o LINUX: Puedes aprender a navegar tus directorios en la terminal de MacOS o Linux [siguiendo este tutorial](http://www.fis.unipr.it/pub/linux/redhat/9/en/doc/RH-DOCS/rhl-gsg-es-9/s1-navigating-cd.html) o [este otro](https://liz-fernandez.github.io/PBI_linux_shell/02-filedir/)
+
+Una vez que llegaste a la consola debes de escribir la siguiente línea y darle enter:
 ```
 ╰─○ python cuarentena.py
-pip install pygame
 ```
 
-#### 6. ¡Si quieres aprender a programar super poderes o a cambiar la dificultad del juego, mira mi video # 3!
+- \*Todos los archivos deben de estar en la misma carpeta y debes de navegar a esta carpeta antes de poder correr el videojuego. 
+
+
+#### 6. Para hacer cambios en el programa, abre el archivo "cuarentena.py" en un procesador de texto para programar.
+
+Te recomiendo mucho [Sublime Text 3](https://www.sublimetext.com/3) porque es gratuito y mu fácil de usar. Yo lo uso todo el tiempo.
+
+#### 7. ¡Si quieres aprender a programar super poderes o a cambiar la dificultad del juego, mira mi video # 3!
 
 
 # Créditos
