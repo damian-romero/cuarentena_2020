@@ -76,6 +76,8 @@ Una vez que llegaste a la consola debes de escribir la siguiente línea y darle 
 
 > **Todo el arte gráfico es gracias a Alba González**
 
+> Puedes leer su nuevo proyecto de manera gratuita en: https://tinyurl.com/albag-Laura
+
 > Visita su página de Patreon: https://www.patreon.com/albaglezart/
 
 > ¡O síguela en Instagram!
