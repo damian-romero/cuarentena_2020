@@ -7,8 +7,8 @@ Para usar los archivos en este repositorio:
 
 #### 1. Diseños, efectos de sonido y música: Baja a tu computadora en un folder al que puedas acceder fácilmente los archivols: 
   - cuarentena.py  # Código para el videojuego (© Damián Romero)
-  - covid.png  # Diseño (© Alba Gonzáles)
-  - chavito.png  # (© Alba Gonzáles)
+  - covid.png  # Diseño (© Alba González)
+  - chavito.png  # (© Alba González)
   - arriba.ogg  # (© Rodd Neyra)
   - abajo.ogg  # (© Rodd Neyra)
   - tos.ogg  # (© Rodd Neyra)
