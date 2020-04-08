@@ -61,7 +61,7 @@ Una vez que llegaste a la consola debes de escribir la siguiente línea y darle 
 
 #### 6. Para hacer cambios en el programa, abre el archivo "cuarentena.py" en un procesador de texto para programar.
 
-Te recomiendo mucho [Sublime Text 3](https://www.sublimetext.com/3) porque es gratuito y mu fácil de usar. Yo lo uso todo el tiempo.
+- Te recomiendo mucho [Sublime Text 3](https://www.sublimetext.com/3) porque es gratuito y mu fácil de usar. Yo lo uso todo el tiempo.
 
 #### 7. ¡Si quieres aprender a programar super poderes o a cambiar la dificultad del juego, mira mi video # 3!
 
