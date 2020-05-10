@@ -7,7 +7,7 @@ Video tutorial
 
 Dele click a la siguiente imágen para ver mi tutorial en YouTube:
 
-[![YouTube link](https://i.ytimg.com/vi/QkZZR61p5Gg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBeHxnh3VDRhuEh5Mo2pjcf9PgTrQ)](https://www.youtube.com/playlist?list=PLf3tqePBaCoKzdipY9HN1ecQXz6IAd11E)
+[![YouTube link](recursos/YouTube_Playlist.png)](https://www.youtube.com/playlist?list=PLf3tqePBaCoKzdipY9HN1ecQXz6IAd11E)
 
 :octocat: Para usar los archivos en este repositorio:
  ====
