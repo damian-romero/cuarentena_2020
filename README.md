@@ -1,9 +1,16 @@
 # Código, diseños y música para el *live coding* del videojuego "Cuarentena 2020"
-## [Convocatoria para creadores y artistas Contingencia COVID-19](https://github.com/damian-romero/cuarentena_2020/blob/master/recursos/bases_Contigo_2020_5283.pdf)
-### Secretaría de Cultura, MÉXICO
+## Contenido de entretenimiento con motivo de la cuarentena del 2020.
 ### © 2020, Damian Romero (damian.compling@gmail.com)
 
-:octocat: **Para usar los archivos en este repositorio:**
+Video tutorial
+=====
+
+Dele click a la siguiente imágen para ver mi tutorial en YouTube:
+
+[![YouTube link](https://i.ytimg.com/vi/QkZZR61p5Gg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBeHxnh3VDRhuEh5Mo2pjcf9PgTrQ)](https://www.youtube.com/playlist?list=PLf3tqePBaCoKzdipY9HN1ecQXz6IAd11E)
+
+:octocat: Para usar los archivos en este repositorio:
+ ====
 
 #### 1. Diseños, efectos de sonido y música: Baja a tu computadora en un folder al que puedas acceder fácilmente los archivols: 
   - cuarentena.py  # Código para el videojuego (© Damián Romero)
